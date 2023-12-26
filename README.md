@@ -112,3 +112,5 @@ Experience an integrated, executive-level dashboard consolidating key insights f
 - [x] Marketing View: Evaluate GM% and NP% performance across segments and operational expenses
 - [x] Supply Chain View: Assess Forecast Accuracy, Net Error, ABS Error by customer and product
 - [x] Executive View: Strategic insights into Market Share trends and revenue. Ribbon Chart for PC Market share trend.
+
+Interactive Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMzYxY2VmNjUtMTQ1Yy00MTg0LWEzN2EtNGYyZWNlOGI3ZjY5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
